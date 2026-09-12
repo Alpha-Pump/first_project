@@ -1,0 +1,1 @@
+print('Hello from repository!')print('Hello from main!')
